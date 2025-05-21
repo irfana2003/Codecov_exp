@@ -29,6 +29,32 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "irfana2003"
+    },
+    {
+      "state": "OPEN",
+      "assignee": "irfana2003",
+      "reviewState": "CHANGES_REQUESTED"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "irfana2003",
+    "reviewState": "CHANGES_REQUESTED"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fc86f1d3-adc2-47fa-9c43-214b0679a93c" />
+        <option name="url" value="https://github.com/irfana2003/Codecov_exp.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
