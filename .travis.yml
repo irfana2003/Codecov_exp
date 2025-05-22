@@ -13,3 +13,6 @@ after_success:
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           slug: irfana2003/Codecov_exp
+
+          codecov: 
+ token: 8895f9e5-d269-4c23-8ed4-15554835e7ac
